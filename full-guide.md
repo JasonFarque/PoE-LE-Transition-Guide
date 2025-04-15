@@ -2,38 +2,48 @@
 
 ## Table of Contents
 
-1. <a href="#introduction">Introduction</a>
-2. <a href="#core-game-systems-quick-reference">Core Game Systems: Quick Reference</a>
-3. <a href="#common-transition-challenges-for-poe-players">Common Transition Challenges for PoE Players</a>
-4. <a href="#glossary-of-terms-poe-to-last-epoch">Glossary of Terms: PoE to Last Epoch</a>
-5. <a href="#build-archetypes-poe-to-last-epoch-translation">Build Archetypes: PoE to Last Epoch Translation</a>
-6. <a href="#classes-and-masteries">Classes and Masteries</a>
-7. <a href="#skill-tree-optimization-tips">Skill Tree Optimization Tips</a>
-8. <a href="#leveling">Leveling</a>
-9. <a href="#leveling-path-guide">Leveling Path Guide</a>
-10. <a href="#building-characters">Building Characters</a>
-11. <a href="#damage-mechanics">Damage Mechanics</a>
-12. <a href="#ailments">Ailments</a>
-13. <a href="#loot-filter-setup-guide">Loot Filter Setup Guide</a>
-14. <a href="#world-structure-time-eras-zones-and-systems">World Structure: Time Eras, Zones, and Systems</a>
-15. <a href="#nemesis-system-overview">Nemesis System Overview</a>
-16. <a href="#exiled-mages">Exiled Mages</a>
-17. <a href="#economy-and-trading-systems">Economy and Trading Systems</a>
-18. <a href="#ui-and-quality-of-life-features">UI and Quality of Life Features</a>
-19. <a href="#controller-support">Controller Support</a>
-20. <a href="#performance-comparison">Performance Comparison</a>
-21. <a href="#multiplayer-co-op-experience">Multiplayer/Co-op Experience</a>
-22. <a href="#monetization-model">Monetization Model</a>
-23. <a href="#patch-update-cadence">Patch/Update Cadence</a>
-24. <a href="#stash-management">Stash Management</a>
-25. <a href="#learning-resources">Learning Resources</a>
-26. <a href="#community-attitudes--interaction">Community Attitudes & Interaction</a>
-27. <a href="#solo-self-found-experience">Solo Self-Found Experience</a>
-28. <a href="#hardcore-mode-differences">Hardcore Mode Differences</a>
-29. <a href="#monolith-map-completion-strategy">Monolith/Map Completion Strategy</a>
-30. <a href="#season-2-tombs-of-the-erased">Season 2: Tombs of the Erased</a>
-31. <a href="#resource-links">Resource Links</a>
-32. <a href="#resource-links">License</a>
+- [Introduction](#introduction)
+- [Disclaimer](#disclaimer)
+- [Core Game Systems: Quick Reference](#core-game-systems-quick-reference)
+  - [Character Progression](#character-progression)
+  - [Item Systems](#item-systems)
+  - [Endgame Currencies](#endgame-currencies)
+  - [Endgame Systems](#endgame-systems)
+- [Common Transition Challenges for PoE Players](#common-transition-challenges-for-poe-players)
+  - [Skill System Differences](#skill-system-differences)
+  - [Movement and Combat Pacing](#movement-and-combat-pacing)
+  - [Difficulty and Progression](#difficulty-and-progression)
+  - [Defensive Layers](#defensive-layers)
+  - [Item and Gearing Differences](#item-and-gearing-differences)
+  - [Progression Expectations](#progression-expectations)
+- [Glossary of Terms: PoE to Last Epoch](#glossary-of-terms-poe-to-last-epoch)
+- [Build Archetypes: PoE to Last Epoch Translation](#build-archetypes-poe-to-last-epoch-translation)
+  - [Melee Builds](#melee-builds)
+  - [Spellcasters](#spellcasters)
+  - [Ranged Builds](#ranged-builds)
+  - [Minion Builds](#minion-builds)
+  - [DoT Builds](#dot-builds)
+  - [Trigger Builds](#trigger-builds)
+  - [Unique Mechanics](#unique-mechanics)
+- [Classes and Masteries](#classes-and-masteries)
+  - [Mage](#mage)
+  - [Primalist](#primalist)
+  - [Acolyte](#acolyte)
+  - [Rogue](#rogue)
+  - [Sentinel](#sentinel-reworked-in-season-2)
+- [Skill Tree Optimization Tips](#skill-tree-optimization-tips)
+- [Leveling](#leveling)
+- [Leveling Path Guide](#leveling-path-guide)
+- [Building Characters](#building-characters)
+- [Ailments](#ailments)
+- [Loot Filter Setup Guide](#loot-filter-setup-guide)
+- [World Structure: Time Eras, Zones, and Systems](#world-structure-time-eras-zones-and-systems)
+- [Nemesis System Overview](#nemesis-system-overview)
+- [Exiled Mages](#exiled-mages)
+- [Economy and Trading Systems](#economy-and-trading-systems)
+- [UI and Quality of Life Features](#ui-and-quality-of-life-features)
+- [Controller Support](#controller-support)
+- [License](#license)
 
 ## Introduction
 
