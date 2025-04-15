@@ -879,3 +879,9 @@ The trading community in Last Epoch has developed a distinct culture:
 3. **Balanced Economy**: Less severe RNG means less extreme value disparity in items
 4. **Social Integration**: In-game trading encourages more direct community interaction
 5. **Seasonal Resets**: Economy refreshes with each new seasonal cycle
+
+### License
+
+This guide is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You may share and adapt this work, even commercially, as long as you provide appropriate attribution with a link to the license.
