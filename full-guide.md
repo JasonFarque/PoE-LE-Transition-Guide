@@ -33,6 +33,7 @@
 29. <a href="#monolith-map-completion-strategy">Monolith/Map Completion Strategy</a>
 30. <a href="#season-2-tombs-of-the-erased">Season 2: Tombs of the Erased</a>
 31. <a href="#resource-links">Resource Links</a>
+32. <a href="#resource-links">License</a>
 
 ## Introduction
 
