@@ -25,7 +25,7 @@ The main guide ([eterra-pathfinder.md](eterra-pathfinder.md)) includes detailed 
 
 ## Using This Guide
 
-Start with the [eterra-pathfinder.md](eterra-pathfinder.md) file for the complete guide. The document includes a table of contents with navigation links to specific sections.
+Start with the https://github.com/JasonFarque/PoE-LE-Transition-Guide/blob/main/full-guide.md file for the complete guide. The document includes a table of contents with navigation links to specific sections.
 
 ## Contributions
 
